@@ -10,3 +10,7 @@
 <li> Run the command:  </li>
 <code> streamlit run App.py </code>
 </ol>
+
+###  Deployment
+
+Link: https://keyword-trend-analyser.streamlit.app/
